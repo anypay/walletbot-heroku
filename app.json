@@ -6,12 +6,12 @@
   "keywords": ["wallet", "payments", "bot", "anypay"],
   "env": {
     "WALLETBOT_SEED_PHRASE": {
-      required: true,
-      description: "12 Word Mnemonic Wallet Backup Seed Phrase"
+      "required": true,
+      "description": "12 Word Mnemonic Wallet Backup Seed Phrase"
     },
     "WALLETBOT_AUTH_TOKEN": {
-      required: true,
-      description: "API auth token for your Wallet Bot from the Anypay dashboard"
+      "required": true,
+      "description": "API auth token for your Wallet Bot from the Anypay dashboard"
     }
   }
 }
