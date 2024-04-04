@@ -12,7 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@anypay/walletbot": "^1.8.0",
+    "@anypay/walletbot": "^1.9.0",
     "dotenv": "^16.4.5"
   }
 }
